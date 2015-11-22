@@ -61,7 +61,10 @@ void to_digit(char *arr)
 		{
 			/* match current string to answer key */
 			if (strcmp(current, key[i]) == 0)
+			{
 				printf("%u", i);
+				break;
+			}
 			i++;
 		}
 	}
