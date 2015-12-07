@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 void force_suffix(FILE *fp, const char insert)
 {
