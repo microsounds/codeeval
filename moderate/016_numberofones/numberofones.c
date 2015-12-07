@@ -24,9 +24,9 @@ int count_ones(int num)
 	int ones = 0;
 	while (num)
 	{
-    	if (num & 1)
-        	ones++;
-    	num >>= 1;
+		if (num & 1)
+			ones++;
+		num >>= 1;
 	}
 	return ones;
 }
