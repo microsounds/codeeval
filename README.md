@@ -1,14 +1,13 @@
-#### Solutions to CodeEval challenges on codeeval.com
+## Solutions to CodeEval challenges on codeeval.com
 
-###### Building
+#### Building
 ```
 $ make && ./fizzbuzz input.txt
 ```
 
-###### Environment
+#### Environment
 * C89 (gcc 4.9.2)
 * Bash (4.3.30)
 
-###### Copyright
-(c) microsounds - All Rights Reserved.
-
+#### Copyright
+© microsounds - All Rights Reserved.
