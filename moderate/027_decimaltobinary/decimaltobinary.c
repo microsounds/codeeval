@@ -50,6 +50,7 @@ void strrev(char *arr)
 		i--;
 	}
 }
+
 int main(int argc, char **argv)
 {
 	if (argc != 2)
